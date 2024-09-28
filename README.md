@@ -24,3 +24,10 @@ Prerequisites
 Python 3.x
 OpenCV
 Pynput
+
+git clone https://github.com/armansj/gamebody.git
+cd game_body
+pip install opencv-python pynput
+
+python body_pose_control.py
+
