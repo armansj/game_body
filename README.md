@@ -1,5 +1,4 @@
 
-Here's a sample README.md for your project to control a game using body pose detection:
 
 Body Pose Game Control
 
