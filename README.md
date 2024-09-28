@@ -31,5 +31,5 @@ pip install opencv-python pynput
 
 python body_pose_control.py
 
-https://www.instagram.com/reel/C-Dt7BSAOZ6/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==
+[Watch the demo on Instagram](https://www.instagram.com/reel/C-Dt7BSAOZ6/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
 
